@@ -1,6 +1,6 @@
 //Name: Semih
-//Surname: Bað
-//Student ID:150120070
+//Surname: BaÄŸ
+
 
 // Define the factory class
 public class Factory {
